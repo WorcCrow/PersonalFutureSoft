@@ -1,0 +1,8 @@
+#particles-js{
+	background-image:linear-gradient(to right,rgba(0,0,0,0.5),rgba(0,0,0,0.5)));
+	height:100vw;
+	background-size:cover;
+	background-position:center;
+	z-index:120;
+	height:100vh;
+}

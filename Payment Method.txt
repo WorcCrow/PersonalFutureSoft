@@ -1,0 +1,15 @@
+Claim Transaction
+	Enter Transaction Code
+	Wait for 1-4 hour for us to confirm.
+
+Send us your desposit with along with your user_id
+	Wait for 1-4 hour for us to confirm.
+
+Send us thru palawan
+
+
+
+Palawan
+Coins.ph
+Cebuana
+Gcash
